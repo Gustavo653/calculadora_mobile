@@ -1,7 +1,7 @@
 import 'package:calculator/calculator.dart';
+import 'package:calculator/components/display.dart';
 import 'package:calculator/constants.dart';
-import 'package:calculator/screens/widgets/displayer.dart';
-import 'package:calculator/screens/widgets/keyboard.dart';
+import 'package:calculator/components/keyboard.dart';
 import 'package:calculator/utils/utils.dart';
 import 'package:flutter/material.dart';
 

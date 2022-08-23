@@ -22,7 +22,7 @@ class KeyboardButton extends StatelessWidget {
           onLongPress: onPressed,
           style: ElevatedButton.styleFrom(
             elevation: 0.0,
-            primary: const Color(0xFF272B33),
+            primary: const Color(0xFF292D36),
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(16.0),
             ),

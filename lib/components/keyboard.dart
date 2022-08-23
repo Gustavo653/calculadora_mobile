@@ -1,5 +1,5 @@
 import 'package:calculator/constants.dart';
-import 'package:calculator/screens/widgets/keyboard_button.dart';
+import 'package:calculator/components/keyboard_button.dart';
 import 'package:flutter/material.dart';
 
 class Keyboard extends StatelessWidget {
